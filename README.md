@@ -2,8 +2,6 @@
     <img src="logo.png" alt="Accessible Textures logo">
 </center>
 
-<br>
-
 <h1>
     Accessible Textures
     <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
