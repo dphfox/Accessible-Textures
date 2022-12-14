@@ -4,9 +4,9 @@
 
 <br>
 
-<h1 style="display:flow-root;">
+<h1>
     Accessible Textures
-    <a style="float:right;" rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
         <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
     </a>
 </h1>
